@@ -1,6 +1,6 @@
 # Matplotlib-Challange
 
-Pymacuticals Inc.
+Pymaceuticals Inc.
 
 This assignment takes data from a study of mice regarding regimens of treatment for tumors. With this data, a statistical summary was preformed as well as presenting the data in bar, pie, box, line, and scatter plots. 
 
